@@ -1,0 +1,22 @@
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}

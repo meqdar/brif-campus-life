@@ -7,12 +7,12 @@ header {
 nav {
     display: flex;
     gap: 15px;
-    text-decoration: none;
+    text-decoration:none;
     list-style: none;
 
 }
 a{
-    text-decoration: none;
+    text-decoration: none; 
     color: black;
 }
 a:hover{
@@ -228,6 +228,164 @@ footer{
     }
 
 }
+
+
+
+
+/* page 2 */
+
+
+ h2{
+        font-size: 30px;
+    }
+.campusPage2{
+   
+    display: flex;
+    justify-content: space-between;
+    h4{
+        font-size: 10px;
+        color: rgb(27, 27, 251);
+    }
+    .safi{
+        border: 1px solid cadetblue;
+        border-radius: 7px;
+        flex: 0.3;
+        text-align: center;
+    }
+    .youssoufia{
+        border: 1px solid cadetblue;
+        border-radius: 7px;
+        flex: 0.3;
+    }
+    .nador{
+        border: 1px solid cadetblue;
+        border-radius: 7px;
+        flex: 0.3;
+    }
+}
+.espace{
+    .soutitre1{
+        color: rgb(39, 39, 247);
+        font-size: 12;
+    }
+    h2{
+        font-size: 30px;
+    }
+    background-color: rgb(141, 141, 142);
+    .artPart1{
+        display: flex;
+        justify-content: center;
+        
+        .article1{
+            border: 1px solid cadetblue;
+            border-radius: 7px;
+            background-color: aliceblue;
+            
+            img{
+                width: 444px;
+                height: 194;
+            }
+            h5{
+                font-size: 10px;
+                color: rgb(34, 34, 249);
+            }
+        }
+        .article2{
+            border: 1px solid cadetblue;
+            border-radius: 7px;
+            background-color: aliceblue;
+            
+            img{
+                width: 444px;
+                height: 194;
+            }
+            h5{
+                font-size: 10px;
+                color: rgb(34, 34, 249);
+            }
+        }
+    }
+    .artPart2{
+        display: flex;
+        justify-content: center;
+        .article3{
+            border: 1px solid cadetblue;
+            border-radius: 7px;
+            background-color: aliceblue;
+        
+            img{
+                width: 444px;
+                height: 194;
+            }
+            h5{
+                font-size: 10px;
+                color: rgb(34, 34, 249);
+            }
+        }
+        .article4{
+            border: 1px solid cadetblue;
+            border-radius: 7px;
+            background-color: aliceblue;
+         
+            text-align: center;
+            img{
+                width: 444px;
+                height: 194;
+            }
+            h5{
+                font-size: 10px;
+                color: rgb(34, 34, 249);
+            }
+        }
+    }
+}
+
+
+.footerPage2{
+    color: aliceblue;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    .footerPart1{
+        display: flex;
+        justify-content: space-between;
+        .logo{
+            font-size: 30px;
+    
+        }
+        .footPart1{
+            .exp1{
+                color: rgb(152, 171, 10);
+            }
+            .fotlist{
+                display: block;
+                color: aliceblue;
+            }
+        }
+        .footPart2{
+                        p{
+                color: rgb(152, 171, 10);
+            }
+            .fotlist{
+                display: block;
+                color: aliceblue;
+            }
+        }
+    }
+    .footer-part2{
+        color: rgb(117, 118, 119);
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
+
+
+
+
+
+
+
 
 
 
