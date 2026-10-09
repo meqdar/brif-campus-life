@@ -1,0 +1,242 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+
+button {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin-left: 10px;
+    border: none;
+}
+.hero{
+    padding-left: 200px;
+}
+.foto {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.lettre{
+    color: black;
+    display: flex;
+    gap: 1px;
+}
+.bott{
+    background-color: blue;
+    border-radius: 5px;
+    width: 180px;
+    height: 400;
+    top: 330px;
+    margin-left: 10px;
+    border: none;
+    display: flex;
+    gap: 10px;
+
+
+}
+  
+.chifre{
+    display: flex;
+    justify-content: space-between;
+}
+
+.soutitre{
+    color: rgb(2, 152, 246);
+}
+
+
+.campus{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(250, 244, 237);
+    .section4{
+        margin-left: 50px;
+    }
+    .images{
+        flex: 1;
+        display: flex;
+        gap: 0px;
+        padding-left: 500px;
+         
+            .img1 {
+                .im1{
+                width: 200px;
+                height:200PX ;
+                transform: rotate(10deg);
+                }
+                p{
+                    border: 2ps solid black;
+                    border-radius: 5px;
+                    background-color: black;
+                    color: aliceblue;
+                    margin: 30px;
+                    margin-top: -10px;
+                    position: relative;
+                }
+            }
+            .img2 {
+                .im2{
+                width: 200px;
+                height:200PX ;
+                transform: rotate(5deg);
+                }
+                p{
+                    border: 2ps solid black;
+                    border-radius: 5px;
+                    background-color: black;
+                    color: aliceblue;
+                    margin: 30px;
+                    margin-top: -10px;
+                    position: relative;
+                }
+
+            }
+            .img3 {
+                .im3{
+                width: 200px;
+                height:200PX ;
+                transform: rotate(5deg);
+                }
+                p{
+                    border: 2ps solid black;
+                    border-radius: 5px;
+                    background-color: black;
+                    color: aliceblue;
+                    margin: 30px;
+                    margin-top: -10px;
+                    position: relative;
+                }
+
+            }
+  
+}
+   
+}
+.journey{
+    background-color: black;
+    color: aliceblue;
+    padding-left: 50px;
+    padding-right: 40px;
+    ul{
+        display: flex;
+        justify-content: space-between;
+    }
+}
+.evenement{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    .intro{
+        background-color: rgb(43, 43, 250);
+        color: aliceblue;
+        border-radius: 7px;
+        padding: 50px;
+        .sect61{
+            color: rgb(20, 20, 254);
+            border: 2px solid rgb(249, 249, 252);
+            background-color: aliceblue;
+            border-radius: 4px;
+            padding: 5px;
+            width: 200px;
+        }
+    }
+    .carte1{
+        border: 2px solid rgb(220, 240, 245);
+        border-radius: 7px;
+        .sect62{
+            color: rgb(20, 20, 254);
+            border: 2px solid rgb(20,20,254);
+            border-radius: 4px;
+            padding: 5px;
+            width: 130px;
+        }
+    }
+    .carte2{
+        border: 2px solid rgb(220,240, 245);
+        border-radius: 7px;
+        .sect63{
+            color: rgb(20, 20, 254);
+            border: 2px solid rgb(20,20,254);
+            border-radius: 4px;
+            padding: 5px;
+            width: 130px;
+        }
+    }
+    .carte3{
+        border: 2px solid rgb(220, 240, 254);
+        border-radius: 7px;
+
+
+        .sect64{
+            color: rgb(20, 20, 254);
+            border: 2px solid rgb(20,20,254);
+            border-radius: 4px;
+            padding: 5px;
+            width: 130px;
+        }
+    }
+
+}
+.section7{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(241, 244, 247);
+    .img-sec7{
+        width: 250px;
+        height: 180px;
+        margin-left:70px ;
+        margin-top: 15px;
+    
+    }
+    div{
+        p{
+            font-size: 25px;
+            margin-right: 300px;
+            margin-top: 40px;
+        }
+    } 
+}
+footer{
+    .footer-p1-p1{
+        display: inline-flex;
+        justify-content: space-between;
+        .footer-cam{
+        }
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
